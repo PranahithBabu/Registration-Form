@@ -4,8 +4,10 @@ require_once('config.php');
 <!DOCTYPE html>
 <html>
 <head>
+	
 	<title>Registration Form</title>
 	<link rel="stylesheet" type="text/css" href="css/registration.css">
+	
 </head>
 <body>
 <div>
