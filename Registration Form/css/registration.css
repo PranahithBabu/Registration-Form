@@ -1,0 +1,46 @@
+body {
+	background-color: tomato;
+}
+h1 {
+	color: #3b0845;
+}
+.container {
+	border-radius : 10px;
+	background-color: white;
+	border: 3px solid #f1f1f1;
+	width: 500px;
+	margin: auto;
+	margin-top: 30px;
+	text-align: center;
+}
+input, option{
+    width: 450px;
+	margin: auto;
+    padding: 5px;
+    border: 1px solid #ccc;
+}
+label {
+	text-align: inline;
+}
+.inner_container {
+	width:450px;
+	padding-bottom: 20px;
+	margin: auto;
+	padding-left: -25px;
+}
+#submit_btn {
+	width: 100px;
+	height: 50px;
+	background-color: green;
+	cursor: pointer;
+	font-size: 18px;
+	margin-right: 10px;
+}
+#reset_btn {
+	width: 100px;
+	height: 50px;
+	background-color: red;
+	cursor: pointer;
+	font-size: 18px;
+	margin-left: 10px;
+}
